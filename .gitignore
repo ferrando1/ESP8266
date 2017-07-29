@@ -1,0 +1,2 @@
+# ignore all .txt files in the doc/ directory
+app/**/.output
