@@ -16,4 +16,4 @@
  ../../include/spi_flash.h ../../include/ets_sys.h \
  ../../include/os_type.h ../../include/mem.h ../../include/espconn.h \
  ../driver/uart.h ../driver/uart_register.h ../../include/eagle_soc.h \
- ../../include/c_types.h ../../include/gpio.h
+ ../../include/c_types.h ../../include/gpio.h ../../include/sntp.h
